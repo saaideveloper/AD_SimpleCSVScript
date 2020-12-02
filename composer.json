@@ -1,6 +1,7 @@
 {
     "name": "saaideveloper/csv-class",
     "type": "library",
+    "version": "1.0"
     "description": "Simple Class To Manage CSVs",
     "keywords": ["CSVs","Class"],
     "homepage": "https://yourcompany.com",
@@ -9,7 +10,7 @@
         {
             "name": "Sergio Abad",
             "email": "saaideveloper@gmail.com",
-            "homepage": "http://seld.be",
+            "homepage": "",
             "role": "Developer"
         }
     ]
