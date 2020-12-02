@@ -1,0 +1,16 @@
+{
+    "name": "saaideveloper/CSVClass",
+    "type": "library",
+    "description": "Simple Class To Manage CSVs",
+    "keywords": ["CSVs","Class"],
+    "homepage": "https://yourcompany.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergio Abad",
+            "email": "saaideveloper@gmail.com",
+            "homepage": "http://seld.be",
+            "role": "Developer"
+        }
+    ],
+}
