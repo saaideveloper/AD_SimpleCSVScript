@@ -1,7 +1,6 @@
 {
     "name": "saaideveloper/csv-class",
     "type": "library",
-    "version": "1.0",
     "description": "Simple Class To Manage CSVs",
     "keywords": ["CSVs","Class"],
     "license": "MIT",
