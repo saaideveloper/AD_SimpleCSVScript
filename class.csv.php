@@ -1,4 +1,6 @@
 <?php
+
+namespace Saaideveloper;
 //----------------------------------------------------------------------
 // based on :
 // http://php.net/manual/fr/function.fgetcsv.php#68213
